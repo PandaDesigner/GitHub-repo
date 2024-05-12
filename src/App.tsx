@@ -2,7 +2,7 @@ import styled from "styled-components";
 import tw from "twin.macro";
 
 const Text = styled.p`
-  ${tw`text-3xl font-bold text-indigo-500`}
+  ${tw`text-3xl font-bold text-indigo-500 m-4`}
 `;
 
 const ContainerBg = styled.div`
